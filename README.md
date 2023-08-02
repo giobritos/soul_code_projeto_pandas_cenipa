@@ -1,6 +1,6 @@
 # Projeto de ETL Cenipa
 
-Este projeto de ETL (Extract, Transform, Load) e análise foi desenvolvido utilizando a biblioteca Pandas em conjunto com o Pandera. O objetivo é explorar a base de dados do CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos), disponível publicamente em um link específico.
+Este projeto de ETL (Extract, Transform, Load) e análise foi desenvolvido utilizando a biblioteca Pandas em conjunto com o Pandera. O objetivo é explorar a base de dados do CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos), disponível publicamente.
 
 ## Pré-Requisitos
 
